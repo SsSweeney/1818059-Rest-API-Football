@@ -1,0 +1,28 @@
+{
+    "KOS_Mantap" : [
+        {
+            "Nama" : "M. Halim Assiddiqi",
+            "Universitas" : "Institut Teknologi Nasional Malang",
+            "Jurusan" : "Teknik Informatika",
+            "Umur" : "21",
+            "Jenis_Kelamin" : "Laki-Laki",
+            "Agama" : "Islam"
+        },
+        {
+            "Nama" : "Sinatrya Zulfikar",
+            "Universitas" : "Universitas Negeri Malang",
+            "Jurusan" : "Ilmu Hukum",
+            "Umur" : "21",
+            "Jenis_Kelamin" : "Laki-Laki",
+            "Agama" : "Islam"
+        },
+        {
+            "Nama" : "Akmalul Fasya",
+            "Universitas" : "Universitas Brawijaya",
+            "Jurusan" : "Ilmu Administrasi Negara",
+            "Umur" : "21",
+            "Jenis_Kelamin" : "Laki-Laki",
+            "Agama" : "Islam"
+        }
+    ]   
+}
